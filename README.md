@@ -1,70 +1,85 @@
-# UMEQAM — AI Risk & Decision Core
+# UMEQAM — Deterministic Risk & Decision Core
 
-UMEQAM AI Tools is a lightweight decision-support core designed to **analyze risk, uncertainty, and structural imbalance** in complex situations.
+UMEQAM is a **conceptual, deterministic decision-support core** designed to surface
+risk, uncertainty, and structural imbalance in complex situations.
 
-This project is not about predictions or automation of outcomes.  
-It is about **reducing false confidence**, highlighting hidden risk, and supporting disciplined decision-making.
-
----
-
-## What problem does it solve?
-
-Modern decisions — in trading, strategy, operations, or content — often fail not because of lack of data, but because of:
-
-- overconfidence  
-- ignored uncertainty  
-- structural imbalance  
-- emotional or biased reasoning  
-
-UMEQAM provides a **risk-oriented analytical layer** that helps identify when a situation should be treated with caution rather than action.
+This repository is **not** a machine learning model and **not** an automation system.
+It does not predict outcomes or replace human judgment.
 
 ---
 
-## What this system does NOT do
+## What this is
 
-This project intentionally **does not**:
+UMEQAM is:
+- a deterministic decision-support core
+- a tool for reducing false confidence
+- a reference implementation of risk-aware reasoning
+- explainable by design
 
-- provide predictions or forecasts  
-- give buy/sell or action advice  
-- guarantee results or outcomes  
-- replace human judgment  
-
-UMEQAM is a **decision-support tool**, not an authority or oracle.
-
----
-
-## Where it is used
-
-UMEQAM AI Core is designed to power:
-
-- Telegram-based AI bots  
-- risk-control and decision filters  
-- analytical audits  
-- educational and exploratory tools  
-
-It is optimized for **Telegram-first products** under the UMEQAM ecosystem.
+The same input will always produce the same output.
 
 ---
 
-## Philosophy
+## What this is NOT
 
-> The goal is not to be right.  
-> The goal is to avoid being confidently wrong.
+UMEQAM is **not**:
+- a predictive model
+- an AI agent
+- an automated decision-maker
+- a production-ready product
 
-UMEQAM focuses on **risk visibility**, not promises.
-
----
-
-## Project status
-
-This repository represents the **core analytical foundation**.  
-Implementation details and interfaces will evolve as part of UMEQAM products.
-
-For applied usage and live tools, see UMEQAM Telegram-based services.
+It is a **thinking tool**, not a solution.
 
 ---
 
-## Disclaimer
+## Why it exists
 
-This project is provided for **educational and analytical purposes only**.  
-No financial, legal, or operational responsibility is assumed.
+Many failures in strategy, operations, and planning happen not because of
+missing data, but because of:
+- ignored uncertainty
+- structural imbalance
+- overconfidence in weak signals
+
+UMEQAM exists to make these risks explicit before a decision is taken.
+
+---
+
+## Typical use case
+
+You are deciding whether to proceed with an action under uncertainty.
+
+Input:
+- confidence in available information
+- stability of the situation
+- level of uncertainty or imbalance
+
+Output:
+- a risk-adjusted decision signal
+- a transparent explanation of why risk dominates or not
+
+Final decisions remain with a human.
+
+---
+
+## Design principles
+
+- Deterministic logic only
+- No learning, no adaptation
+- No hidden state
+- Full explainability
+- Fail-safe by design
+
+---
+
+## Status
+
+This repository is intentionally minimal.
+It is published as a **reference and thinking aid**, not as a maintained product.
+
+Use it as inspiration, not as an authority.
+
+---
+
+## License
+
+MIT
