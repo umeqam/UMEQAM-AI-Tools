@@ -1,132 +1,70 @@
-# UMEQAM-AI-Tools
+# UMEQAM — AI Risk & Decision Core
 
-**UMEQAM-AI-Tools** is the official public repository of the UMEQAM ecosystem —  
-a next-generation AI platform focused on **decision intelligence, risk analysis, monetization systems, and cognitive automation**.
+UMEQAM AI Tools is a lightweight decision-support core designed to **analyze risk, uncertainty, and structural imbalance** in complex situations.
 
-This repository represents the **public-facing layer** of UMEQAM:  
-clean concepts, documented architectures, and lightweight modules designed for transparency, trust, and collaboration.
-
----
-
-## 🚀 What is UMEQAM?
-
-UMEQAM is an AI-driven ecosystem that develops **modular intelligence systems** for:
-
-- strategic decision-making  
-- risk evaluation and control  
-- monetization and valuation analysis  
-- cognitive diagnostics and reasoning frameworks  
-
-The platform is built around a **core philosophy**:
-
-> AI analyzes — humans confirm decisions.  
-> Transparency, safety, and explainability are mandatory.
+This project is not about predictions or automation of outcomes.  
+It is about **reducing false confidence**, highlighting hidden risk, and supporting disciplined decision-making.
 
 ---
 
-## 🧠 Core Modules (Public Overview)
+## What problem does it solve?
 
-### 🔹 CHARY-X Orchestrator
-A universal AI orchestration framework designed to:
-- structure complex reasoning
-- coordinate multiple analytical roles
-- enforce cold, bias-resistant logic
-- act as a strategic co-pilot for founders, analysts, and operators
+Modern decisions — in trading, strategy, operations, or content — often fail not because of lack of data, but because of:
 
-**Use cases:**  
-strategy design, product decisions, scenario analysis, executive assistance
+- overconfidence  
+- ignored uncertainty  
+- structural imbalance  
+- emotional or biased reasoning  
 
----
-
-### 🔹 ISTINA Engine
-A cognitive and ethical validation engine focused on:
-- logical consistency
-- claim verification
-- risk-of-deception detection
-- explainability and reasoning audits
-
-**Use cases:**  
-AI trust validation, content integrity checks, decision audits, compliance logic
+UMEQAM provides a **risk-oriented analytical layer** that helps identify when a situation should be treated with caution rather than action.
 
 ---
 
-### 🔹 Risk & Diagnostic Frameworks
-A collection of analytical models for:
-- probabilistic risk assessment
-- behavioral and market diagnostics
-- uncertainty detection
-- decision confidence scoring
+## What this system does NOT do
 
-**Use cases:**  
-sports analytics, financial risk screening, operational decision support
+This project intentionally **does not**:
 
----
+- provide predictions or forecasts  
+- give buy/sell or action advice  
+- guarantee results or outcomes  
+- replace human judgment  
 
-## 📦 Repository Purpose
-
-This repository is intentionally **not a full production codebase**.
-
-Its goals are to:
-- document architectures and concepts
-- provide public reference implementations
-- demonstrate the reasoning quality of UMEQAM systems
-- serve as a trust and credibility layer for partners and clients
-
-Production-grade systems, advanced logic, and commercial deployments  
-are maintained in **private environments**.
+UMEQAM is a **decision-support tool**, not an authority or oracle.
 
 ---
 
-## 🛠 How to Use This Repository
+## Where it is used
 
-- Explore module documentation to understand system logic
-- Use concepts as reference for your own AI projects
-- Evaluate UMEQAM’s approach to safety, risk, and decision intelligence
-- Follow development progress via roadmap updates
+UMEQAM AI Core is designed to power:
 
-This repository is suitable for:
-- founders
-- researchers
-- AI developers
-- product strategists
-- analysts and consultants
+- Telegram-based AI bots  
+- risk-control and decision filters  
+- analytical audits  
+- educational and exploratory tools  
+
+It is optimized for **Telegram-first products** under the UMEQAM ecosystem.
 
 ---
 
-## 🗺 Roadmap (High-Level)
+## Philosophy
 
-- Public documentation expansion  
-- Lightweight demo modules  
-- GPT Store–ready public assistants  
-- Telegram-based analytical tools  
-- B2B-oriented decision intelligence reports  
+> The goal is not to be right.  
+> The goal is to avoid being confidently wrong.
 
----
-
-## 🤝 Collaboration & Access
-
-UMEQAM is open to:
-- strategic partnerships
-- research collaboration
-- enterprise licensing
-- private module access for serious use cases
-
-For collaboration or access inquiries, contact the UMEQAM team through official channels.
+UMEQAM focuses on **risk visibility**, not promises.
 
 ---
 
-## ⚖️ License
+## Project status
 
-This repository is published for **educational and demonstrational purposes**.  
-Specific licensing terms may apply to individual modules.
+This repository represents the **core analytical foundation**.  
+Implementation details and interfaces will evolve as part of UMEQAM products.
+
+For applied usage and live tools, see UMEQAM Telegram-based services.
 
 ---
 
-## 🔒 Final Note
+## Disclaimer
 
-UMEQAM is built with a strict focus on:
-- cold logic over hype  
-- explainability over black boxes  
-- long-term systems over short-term tricks  
-
-This repository is the **visible edge** of a much deeper intelligence stack.
+This project is provided for **educational and analytical purposes only**.  
+No financial, legal, or operational responsibility is assumed.
